@@ -1,0 +1,15 @@
+{
+  "short_name": "Sponge",
+  "name": "Sponge",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#F9E344",
+  "background_color": "#ffffff"
+}
